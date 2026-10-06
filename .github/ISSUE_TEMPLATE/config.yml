@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "🔒 Security vulnerability / Vulnerabilidad de seguridad"
+    url: https://github.com/chat-crm-suite/.github/blob/main/SECURITY.md
+    about: "Report privately, never in a public issue · Repórtala en privado, nunca en un issue público"
+  - name: "💼 Commercial license / Licencia comercial"
+    url: https://github.com/chat-crm-suite/chat-crm-api/blob/main/COMMERCIAL.md
+    about: "Pricing and terms for commercial use · Precios y condiciones para uso comercial"

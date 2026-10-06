@@ -1,0 +1,33 @@
+name: "✨ Feature request / Propuesta de mejora"
+description: "Suggest an idea for ChatCRM · Sugiere una idea para ChatCRM"
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: component
+    attributes:
+      label: "Component / Componente"
+      options:
+        - "chat-crm-api"
+        - "chat-crm-app"
+        - "chat-crm-ia"
+        - "Several / Varios"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Problem / Problema"
+      description: "What are you trying to do, and what gets in the way? · ¿Qué intentas hacer y qué te lo impide?"
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "Proposal / Propuesta"
+      description: "How should it work? · ¿Cómo debería funcionar?"
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Alternatives considered / Alternativas consideradas"
