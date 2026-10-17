@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ChatCRM — Bubble check">
+  <title>Bubble check</title>
+  <!-- Conversation, handled: a bubble with its tail and a bold check cut into it. -->
+  <defs>
+    <mask id="check-carve" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+      <rect width="100" height="100" fill="#fff"/>
+      <path d="M 37 46 L 45.5 54.5 L 63 35" fill="none" stroke="#000" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+  <path fill="currentColor" mask="url(#check-carve)" d="M 36 22 H 64 A 14 14 0 0 1 78 36 V 52 A 14 14 0 0 1 64 66 H 38 C 34 71 27.5 76.5 22.8 80.8 C 21.2 82.3 20.6 82 20.9 80.2 C 22 74.6 24.4 69.4 27.4 63.4 C 24 60.5 22 57 22 52 V 36 A 14 14 0 0 1 36 22 Z"/>
+</svg>

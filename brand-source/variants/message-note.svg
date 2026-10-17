@@ -1,0 +1,12 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ChatCRM — Message note">
+  <title>Message note</title>
+  <!-- Fold's folded corner plus a message tail: the record and the conversation in one object. -->
+  <defs>
+    <mask id="note-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+      <rect width="100" height="100" fill="#fff"/>
+      <path fill="#000" fill-rule="evenodd" d="M 54 76 L 76 54 L 76 76 Z M 58.84 76 L 76 58.84 L 76 76 Z"/>
+    </mask>
+  </defs>
+  <rect x="24" y="24" width="52" height="52" rx="14" fill="currentColor" mask="url(#note-cut)"/>
+  <path fill="currentColor" d="M 33 76 C 28.5 80.2 24.5 83.2 22.4 85.2 C 21.3 86.3 21.6 86.8 23 86.1 C 28.5 83.3 36 79.4 44.5 76 Z"/>
+</svg>

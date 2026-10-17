@@ -1,0 +1,10 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ChatCRM — Broadcast">
+  <title>Broadcast</title>
+  <!-- One message out to many: the bubble pulls two ripples behind it. -->
+  <circle cx="46" cy="54" r="26" fill="currentColor"/>
+  <path fill="currentColor" d="M 30 71 C 25.5 76.5 22 81 20.6 84.3 C 19.8 86.2 20.5 86.5 22.3 84.8 C 26.5 81.2 31.5 77 37 72.6 Z"/>
+  <g fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round">
+    <path d="M 64.07 28.2 A 31.5 31.5 0 0 1 75.6 43.23"/>
+    <path d="M 69.23 20.83 A 39.5 39.5 0 0 1 82.62 39.21"/>
+  </g>
+</svg>

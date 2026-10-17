@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ChatCRM — Composer bar">
+  <title>Composer</title>
+  <!-- The input bar with its cursor; the right end tapers like a speech tail. -->
+  <defs>
+    <mask id="composer-carve" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+      <rect width="100" height="100" fill="#fff"/>
+      <rect x="26" y="46" width="4.5" height="10" rx="2.25" fill="#000"/>
+    </mask>
+  </defs>
+  <path fill="currentColor" mask="url(#composer-carve)" d="M 24 41 H 70 L 85 51 L 70 61 H 24 A 10 10 0 0 1 14 51 A 10 10 0 0 1 24 41 Z"/>
+</svg>
